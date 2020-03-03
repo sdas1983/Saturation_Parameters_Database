@@ -1,4 +1,4 @@
-Key,Half Life,Penetration,Effective Frequency,Retention Rate,Raw GRPs(A),Raw GRPs(B),Raw GRPs(C),Raw GRPs(D),Adstock(A),Adstock(B),Adstock(C),Adstock(D),Scale,Shape
+Key,Half_Life,Penetration,Effective_Frequency,Retention_Rate,Raw_GRPs_A,Raw_GRPs_B,Raw_GRPs_C,Raw_GRPs_D,Adstock_A,Adstock_B,Adstock_C,Adstock_D,Scale,Shape
 0.3_10_1,0.3,10,1,10%,0,0.900787434,0.900787434,1.801574869,0,1,1,2,11.94283922,0.967780069
 0.4_10_1,0.4,10,1,18%,0,0.823223305,0.823223305,1.646446609,0,1,1,2,11.94283922,0.967780069
 0.6_10_1,0.6,10,1,31%,0,0.685019738,0.685019738,1.370039475,0,1,1,2,11.94283922,0.967780069
